@@ -1,0 +1,38 @@
+16
+1 2 Horse CLOSE
+1 3 Elephant CLOSE
+1 4 Advisor CLOSE
+1 5 General CLOSE
+1 6 Advisor CLOSE
+1 7 Elephant CLOSE
+1 8 Horse CLOSE
+1 9 Chariot CLOSE
+2 1 Chariot OPEN
+3 2 Cannon CLOSE
+3 8 Cannon CLOSE
+4 1 Soldier CLOSE
+4 3 Soldier CLOSE
+4 5 Soldier CLOSE
+4 7 Soldier CLOSE
+4 9 Soldier CLOSE
+0
+16
+7 1 Soldier CLOSE
+7 3 Soldier CLOSE
+7 5 Soldier CLOSE
+7 7 Soldier CLOSE
+7 9 Soldier CLOSE
+8 2 Cannon CLOSE
+8 8 Cannon CLOSE
+10 1 Chariot CLOSE
+10 2 Horse CLOSE
+10 3 Elephant CLOSE
+10 4 Advisor CLOSE
+10 5 General CLOSE
+10 6 Advisor CLOSE
+10 7 Elephant CLOSE
+10 8 Horse CLOSE
+10 9 Chariot CLOSE
+0
+1
+0
